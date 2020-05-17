@@ -15,7 +15,7 @@ function Slide(title, subtitle, background, link) {
 
 var walk = new Slide(
   "Specialized",
-  "specialized",
+  "scpecialized",
   "/public/images/1.png",
   "https://www.specialized.com/ua/ru/shop/bikes/c/bikes"
 );
